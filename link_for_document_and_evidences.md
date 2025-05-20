@@ -1,15 +1,133 @@
-## 📄 Additional Documentation
-
-For more details about my thought process, testing strategy, and answers to the QA questions, please refer to the following resources:
-
-- 📘 **QA Questions & Answers Document**  
-  [View on Google Docs](https://docs.google.com/document/d/1f4A_ya9BgutSi57xsW5gCZT2qddefS0dqGahxnVDCJE/edit?tab=t.0)  
-  This document contains my detailed answers to the QA-related questions proposed in the test, including methodology and rationale.
-
-- 📁 **Test Evidence Repository**  
-  [Access on Google Drive](https://drive.google.com/drive/folders/11buImJ1iyDa14PpM9o_cTcAxg2KcJVap?usp=drive_link)  
-  A collection of screenshots, screen recordings, and bug documentation used during the testing process.
+# QA Report - Milena Pereira Torres  
+📅 **Date of Test:** 20/05/2025  
+🎮 **Game Tested:** Nitropolis 5 - Elk Studios Games  
+🖥️ **Test Environment:** Demo Mode on our site  
+🌐 **Browser(s) and Device(s):** Mozilla Firefox Version 138.0.4 (64 bits)
 
 ---
 
-📬 *Feel free to explore both resources for a deeper insight into my QA process. Happy reading!*
+## Bug #01 - Poorly Rendered Game Logo [Improvement Suggestion]  
+**Priority:** Critical  
+**Browsers & Devices:** All  
+**Version & Environment:** ELK Studios platform  
+
+**Description:**  
+The game logo appears poorly rendered or lacks polish. This visual issue may affect the user’s first impression and the perceived quality of the game.
+
+**Steps to Reproduce:**  
+1. Access the game through any supported device and browser.  
+2. Observe the logo displayed during the loading screen or in the main menu.  
+3. Notice the quality and visual finish of the logo.
+
+**Expected Result:**  
+The logo should be well-designed, high-resolution, and visually aligned with the game's quality standards.
+
+**Evidence:**  
+`ID 01 - Logo need more quality graphic.png`
+
+---
+
+## Bug #02 - No Warning or Indicator for Skipping Cutscenes  
+**Priority:** Critical  
+**Browsers & Devices:** All  
+**Version & Environment:** ELK Studios platform  
+
+**Description:**  
+No on-screen warning or indicator informs the user that cutscenes can be skipped, which can lead to accidental skips or confusion.
+
+**Steps to Reproduce:**  
+1. Launch the game and proceed to a cutscene.  
+2. Attempt to interact with the screen (e.g., tap/click).  
+3. Observe that the cutscene may skip without any visual cue or warning.
+
+**Expected Result:**  
+A visible warning or small indicator (e.g., “Tap to skip” or “Hold to skip”) should appear during cutscenes to inform users.
+
+**Evidence:**  
+`ID 02 - Cutscene without message of skip.mp4`
+
+---
+
+## Bug #03 - Buy Feature Menu Skips Without Alert or Message  
+**Priority:** Critical  
+**Browsers & Devices:** All  
+**Version & Environment:** ELK Studios platform  
+
+**Description:**  
+The Buy Feature menu skips automatically or can be skipped without any prior warning or indication, possibly causing users to miss important info or animations.
+
+**Steps to Reproduce:**  
+1. Open the game and access the Buy Feature menu.  
+2. Interact with the screen or proceed without clear instructions.  
+3. Notice the menu can be skipped without any visual or textual warning.
+
+**Expected Result:**  
+A clear warning or prompt should be displayed before the Buy Feature menu is skipped, ensuring user awareness.
+
+**Evidence:**  
+`ID 03 - Buy Feature tutorial without message of skip.mp4`
+
+---
+
+## Bug #04 - Big Win Animation Has No Skip Option  
+**Priority:** Medium  
+**Browsers & Devices:** All  
+**Version & Environment:** ELK Studios platform  
+
+**Description:**  
+The Big Win animation plays without an option to skip or fast-forward, which may frustrate users when the animation is long or repetitive.
+
+**Steps to Reproduce:**  
+1. Play the game until a Big Win occurs.  
+2. Observe the animation on screen.  
+3. Attempt to skip or bypass the animation.  
+4. Note no skip button or action is available.
+
+**Expected Result:**  
+Users should be able to skip or accelerate the Big Win animation via a visible button or user action.
+
+**Evidence:**  
+`ID 04 - Big win without message of skip.mp4`
+
+---
+
+## Bug #05 - Win Amount Message Persists After Skip Without Payline Details  
+**Priority:** Medium  
+**Browsers & Devices:** All  
+**Version & Environment:** ELK Studios platform  
+
+**Description:**  
+After skipping, the message showing the win amount remains but does not show winning paylines details, potentially confusing players.
+
+**Steps to Reproduce:**  
+1. Trigger a win in the game.  
+2. Use the skip button to bypass animations.  
+3. Observe the win amount message stays visible.  
+4. Notice the absence of winning paylines details.
+
+**Expected Result:**  
+The win amount message should disappear or display payline info when skipped, providing full feedback.
+
+**Evidence:**  
+`ID 05 - Win value appears without paylines animation.mp4`
+
+---
+
+## Bug #06 - [Improvement] Buy Feature Lacks Blue Background, Reducing Contrast and Readability  
+**Priority:** Low  
+**Browsers & Devices:** All  
+**Version & Environment:** ELK Studios platform  
+
+**Description:**  
+The buy feature screen lacks the usual blue background, reducing contrast and making options harder to read.
+
+**Steps to Reproduce:**  
+1. Access the buy feature menu in the game.  
+2. Observe the background color behind the options.  
+3. Note the absence of the usual blue background, affecting readability.
+
+**Expected Result:**  
+The buy feature screen should maintain the blue background for good contrast and clear readability.
+
+**Evidence:**  
+`ID 06 - Buy Feature without Background blue is weird`
