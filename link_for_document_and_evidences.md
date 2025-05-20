@@ -23,7 +23,7 @@ The game logo appears poorly rendered or lacks polish. This visual issue may aff
 The logo should be well-designed, high-resolution, and visually aligned with the game's quality standards.
 
 **Evidence:**  
-`ID 01 - Logo need more quality graphic.png`
+[ID 01 - Logo need more quality graphic.png](https://drive.google.com/file/d/196RSGLPOxOEuc9gM1hzJEd8644e0Wpww/view?usp=drive_link)
 
 ---
 
@@ -44,7 +44,7 @@ No on-screen warning or indicator informs the user that cutscenes can be skipped
 A visible warning or small indicator (e.g., “Tap to skip” or “Hold to skip”) should appear during cutscenes to inform users.
 
 **Evidence:**  
-`ID 02 - Cutscene without message of skip.mp4`
+[ID 02 - Cutscene without message of skip.mp4](https://drive.google.com/file/d/1CkeImNROwJB7PI6hUY4pjdFrP9ktqLpy/view?usp=drive_link)
 
 ---
 
@@ -65,7 +65,7 @@ The Buy Feature menu skips automatically or can be skipped without any prior war
 A clear warning or prompt should be displayed before the Buy Feature menu is skipped, ensuring user awareness.
 
 **Evidence:**  
-`ID 03 - Buy Feature tutorial without message of skip.mp4`
+[ID 03 - Buy Feature tutorial without message of skip.mp4](https://drive.google.com/file/d/1lsb30ox--lm4zbRHCCVloA245FFI1IsP/view?usp=drive_link)
 
 ---
 
@@ -87,7 +87,7 @@ The Big Win animation plays without an option to skip or fast-forward, which may
 Users should be able to skip or accelerate the Big Win animation via a visible button or user action.
 
 **Evidence:**  
-`ID 04 - Big win without message of skip.mp4`
+[ID 04 - Big win without message of skip.mp4](https://drive.google.com/file/d/1sij9cO8d_4vz-llnK3ggKHQTE3bvLIWG/view?usp=drive_link)
 
 ---
 
@@ -109,7 +109,7 @@ After skipping, the message showing the win amount remains but does not show win
 The win amount message should disappear or display payline info when skipped, providing full feedback.
 
 **Evidence:**  
-`ID 05 - Win value appears without paylines animation.mp4`
+[ID 05 - Win value appears without paylines animation.mp4](https://drive.google.com/file/d/1zJ8f3-gf8G3UOKoaJGVguY4BwoKgyc0i/view?usp=sharing)
 
 ---
 
@@ -130,4 +130,4 @@ The buy feature screen lacks the usual blue background, reducing contrast and ma
 The buy feature screen should maintain the blue background for good contrast and clear readability.
 
 **Evidence:**  
-`ID 06 - Buy Feature without Background blue is weird`
+[ID 06 - Buy Feature without Background blue is weird](https://drive.google.com/file/d/191YMFOOHggNWL2gbWR8M8SmHa5M2Ouy6/view?usp=drive_link)
