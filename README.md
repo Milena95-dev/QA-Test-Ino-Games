@@ -68,6 +68,11 @@ For more details about my thought process, testing strategy, and answers to the 
 🔗 [View on Google Drive](https://drive.google.com/file/d/ID_DO_ARQUIVO/view?usp=sharing)  
   This document contains my detailed answers to the QA-related questions proposed in the test by **Ino Games**, including methodology and rationale.
 
+- 📘 **QA issued reported**  
+📄 [View on GitHub](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO/blob/main/NOME_DO_ARQUIVO.docx)  
+🔗 [View on Google Drive](https://docs.google.com/document/d/1-EwnVbesWmSMiJMaGggZR8xXXHU5hZ4rROBUf3zEzWc/edit?usp=drive_link)  
+This document contains a comprehensive list of all bugs and issues identified and reported during the testing process, including detailed descriptions, reproduction steps, severity, and supporting evidence.
+
 - 📁 **Test Evidence Repository**  
   [Access on Google Drive](https://drive.google.com/drive/folders/1vh_6DqJrOZqAnQLkzc_EhipJZnUqyT1L?usp=drive_link)  
   A collection of screenshots, screen recordings, and bug documentation used during the testing process.
