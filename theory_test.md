@@ -1,14 +1,32 @@
-**General Questions**
+## 📖 Theoretical QA Questions & Answers
 
-**1\. What is the primary purpose of Quality Assurance (QA)?**
+---
 
-The primary purpose of Quality Assurance (QA) is to prevent errors, defects, and failures during the software development process, ensuring that the product meets quality standards before being delivered to customers. This includes identifying and reporting problems as soon as they are found, using demand management platforms like Jira or Monday, and prioritizing critical issues that could compromise the system’s functionality or stability, such as failures that could freeze or break the game.
+### 1. What is the primary purpose of Quality Assurance (QA)?
 
-**2\. What is the difference between a test case and a test plan?**
+The main goal of Quality Assurance (QA) is to prevent errors, defects, and failures during the development process, making sure the product meets quality standards before it’s released to users. This involves:
 
-A test case is a detailed description of a specific test designed to validate a feature or functionality. It includes the steps to be followed, the current behavior of the software, and the expected results for that scenario.
+- **Early issue detection:** Identifying and reporting bugs as soon as they appear, typically using demand-management tools like Jira or Monday.  
+- **Prioritization of critical defects:** Focusing first on problems that could compromise system stability or performance—especially those that might freeze or break the game.  
 
-On the other hand, a test plan is a comprehensive document that defines the overall test strategy. It outlines the objectives to be achieved, the scope of testing, the planned timeline, and the resources and tools needed for the effective execution of all tests.
+---  
+
+### 2. What is the difference between a test case and a test plan?
+
+- **Test Case**  
+  A test case is a detailed description of a specific scenario created to validate a feature or functionality. It includes:  
+  - The steps to follow  
+  - The current (actual) behavior  
+  - The expected result for that scenario  
+
+- **Test Plan**  
+  A test plan is a comprehensive document defining the overall test strategy. It outlines:  
+  - Testing objectives and scope  
+  - Planned timeline and milestones  
+  - Required resources and tools  
+  - Any risks and mitigation approaches  
+
+---  
 
 **3\. What does the term 'regression testing' refer to?**
 
