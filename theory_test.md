@@ -4,7 +4,7 @@
 🖥️ **Test Environment:** Demo Mode on our site  
 🌐 **Browser(s) and Device(s):** Mozilla Firefox Version 138.0.4 (64 bits)
 
-###📝 Theoretical Answers
+📝 Theoretical Answers
 
 ### 1. What is the main objective of Quality Assurance (QA)? 🎯
 
