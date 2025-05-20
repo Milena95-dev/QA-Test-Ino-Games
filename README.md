@@ -1,6 +1,17 @@
-# Ino Games Test Project
+# InnoGames Test Project
 
 This repository contains the test cases, issues, and reports for the Slot Catalog Demo version developed by InnoGames. The focus is on functional, usability, performance, and visual testing across multiple browsers and devices.
+
+---
+
+## 📚 Table of Contents
+
+- [🧪 Test Scope](#-test-scope)
+- [🔍 Testing Process](#-testing-process)
+- [📄 Additional Documentation](#-additional-documentation)
+- [✅ Conclusion](#-conclusion)
+
+---
 
 ## 🧪 Test Scope
 
@@ -25,6 +36,8 @@ This repository contains the test cases, issues, and reports for the Slot Catalo
   - Improved text formatting and alignment
   - Enhanced feedback on user interactions
 
+---
+
 ## 🔍 Testing Process
 
 1. **Test Execution**  
@@ -39,6 +52,24 @@ This repository contains the test cases, issues, and reports for the Slot Catalo
 3. **Evidence Collection**  
    Screenshots and short video clips were used to document and illustrate each issue clearly.
 
+---
+
+## 📄 Additional Documentation
+
+For more details about my thought process, testing strategy, and answers to the QA questions, please refer to the following resources:
+
+- 📘 **QA Questions & Answers Document**  
+  [View on Google Docs](https://docs.google.com/document/d/1f4A_ya9BgutSi57xsW5gCZT2qddefS0dqGahxnVDCJE/edit?tab=t.0)  
+  This document contains my detailed answers to the QA-related questions proposed in the test, including methodology and rationale.
+
+- 📁 **Test Evidence Repository**  
+  [Access on Google Drive](https://drive.google.com/drive/folders/11buImJ1iyDa14PpM9o_cTcAxg2KcJVap?usp=drive_link)  
+  A collection of screenshots, screen recordings, and bug documentation used during the testing process.
+
+📬 *Feel free to explore both resources for a deeper insight into my QA process. Happy reading!*
+
+---
+
 ## ✅ Conclusion
 
-This testing effort ensures that the game provides a stable, visually consistent, and enjoyable experience across different platforms. It delivers actionable feedback for developers and highlights areas for improvement in both gameplay and interface quality.
+This QA effort helps ensure that the game provides a stable, visually consistent, and enjoyable experience across different platforms. It delivers actionable feedback for developers and highlights areas for improvement in both gameplay and interface quality.
