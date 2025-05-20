@@ -1,20 +1,44 @@
 # Ino Games Test Project
 
-This repository contains the test cases, issues, and reports for various games developed by Ino Games, focusing on the Slot Catalog Demo version. The project includes functional, usability, performance, and visual testing for different browsers and devices.
+This repository contains the test cases, issues, and reports for the Slot Catalog Demo version developed by InnoGames. The focus is on functional, usability, performance, and visual testing across multiple browsers and devices.
 
-## Test Cases and Issues
+## 🧪 Test Scope
 
-- **Test Types**: The tests cover functional tests (ensuring all game features work), usability tests (evaluating user interface and gameplay), and performance tests (validating stability under various conditions).
-- **Browsers Tested**: Chrome, Mozilla Firefox, Safari, and Edge on mobile and desktop platforms.
-- **Identified Bugs**: Issues ranged from minor UI problems to critical game-breaking bugs, such as loading failures, graphical artifacts, and button malfunctions.
-- **Improvements**: Suggestions included better-quality assets, improved interactions, and adjusted text formatting.
+- **Test Types**:
+  - **Functional**: Validating that all core game functionalities behave as expected.
+  - **Usability**: Assessing user interface, interaction flow, and overall user experience.
+  - **Performance**: Measuring stability, responsiveness, and loading times.
+  - **Visual**: Checking layout consistency, resolution behavior, and asset rendering.
 
-## Testing Process
+- **Browsers & Devices Tested**:
+  - **Desktop**: Google Chrome, Mozilla Firefox, Safari, Microsoft Edge
+  - **Mobile**: Chrome (Android), Safari (iOS)
 
-1. **Execution**: Test cases were followed step-by-step to reproduce issues, comparing results to expected outcomes.
-2. **Bug Reports**: Detailed reports included steps to reproduce, expected vs. actual results, and severity levels (Critical, High, Medium, Low).
-3. **Evidence**: Screenshots and videos were provided to illustrate each issue clearly.
+- **Identified Bugs**:
+  - Issues ranged from UI inconsistencies to critical game-breaking bugs, such as:
+    - Asset loading failures
+    - Graphical artifacts
+    - Unresponsive buttons and interactions
 
-## Conclusion
+- **Suggested Improvements**:
+  - Higher-quality visual assets
+  - Improved text formatting and alignment
+  - Enhanced feedback on user interactions
 
-This testing process ensures the games are high-quality, free from major bugs, and optimized for all platforms. It provides comprehensive documentation for developers and recommendations for enhancing the user experience.
+## 🔍 Testing Process
+
+1. **Test Execution**  
+   Each test case was executed step-by-step and compared against expected outcomes.
+
+2. **Bug Reporting**  
+   Reports included:
+   - Clear steps to reproduce the issue
+   - Expected vs. actual behavior
+   - Severity levels (Critical, High, Medium, Low)
+
+3. **Evidence Collection**  
+   Screenshots and short video clips were used to document and illustrate each issue clearly.
+
+## ✅ Conclusion
+
+This testing effort ensures that the game provides a stable, visually consistent, and enjoyable experience across different platforms. It delivers actionable feedback for developers and highlights areas for improvement in both gameplay and interface quality.
