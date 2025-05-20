@@ -58,12 +58,16 @@ This repository contains the test cases, issues, and reports for the Slot Catalo
 
 For more details about my thought process, testing strategy, and answers to the QA questions, please refer to the following resources:
 
-- 📘 **QA validations Document**  
+- 📘 **QA Theorical Document**  
+  [View on Google Docs]()  
+  This document contains my detailed answers to the QA-related questions proposed in the test by **Ino Games**, including methodology and rationale.
+  
+- 📘 **QA Pratical Document**  
   [View on Google Docs]()  
   This document contains my detailed answers to the QA-related questions proposed in the test by **Ino Games**, including methodology and rationale.
 
 - 📁 **Test Evidence Repository**  
-  [Access on Google Drive]()  
+  [Access on Google Drive](https://drive.google.com/drive/folders/1vh_6DqJrOZqAnQLkzc_EhipJZnUqyT1L?usp=drive_link)  
   A collection of screenshots, screen recordings, and bug documentation used during the testing process.
 
 📬 *Feel free to explore both resources for a deeper insight into my QA process. Happy reading!*
