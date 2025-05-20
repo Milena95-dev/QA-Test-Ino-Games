@@ -58,18 +58,18 @@ This repository contains the test cases, issues, and reports for the Slot Catalo
 
 For more details about my thought process, testing strategy, and answers to the QA questions, please refer to the following resources:
 
-- 📘 **QA Theorical Document**  
+- 📘 **QA Theoretical Answers**  
 📄 [View on GitHub](theory_test.md)  
-🔗 [View on Google Drive]( https://docs.google.com/document/d/1Yj5igAec5wcR2eiBdWvuDZnKPwZdzmwO/edit?usp=drive_link&ouid=114120568228143854602&rtpof=true&sd=true)  
+🔗 [View on Google Drive](https://docs.google.com/document/d/1Yj5igAec5wcR2eiBdWvuDZnKPwZdzmwO/edit?usp=drive_link&ouid=114120568228143854602&rtpof=true&sd=true)  
   This document contains my detailed answers to the QA-related questions proposed in the test by **Ino Games**, including methodology and rationale.
   
-- 📘 **QA Pratical Document**  
-📄 [View on GitHub](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO/blob/main/NOME_DO_ARQUIVO.docx)  
-🔗 [View on Google Drive](https://drive.google.com/file/d/ID_DO_ARQUIVO/view?usp=sharing)  
+- 📘 **QA Pratical Test and General Awnsers**  
+📄 [View on GitHub](pratical_test.md)  
+🔗 [View on Google Drive](https://docs.google.com/document/d/186ej09GxfzJINhQXPhbKA67wPwNQx219IYl5mY99Szs/edit?usp=drive_link)  
   This document contains my detailed answers to the QA-related questions proposed in the test by **Ino Games**, including methodology and rationale.
 
 - 📘 **QA issued reported**  
-📄 [View on GitHub](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO/blob/main/NOME_DO_ARQUIVO.docx)  
+📄 [View on GitHub](link_for_document_and_evidences.md)  
 🔗 [View on Google Drive](https://docs.google.com/document/d/1-EwnVbesWmSMiJMaGggZR8xXXHU5hZ4rROBUf3zEzWc/edit?usp=drive_link)  
 This document contains a comprehensive list of all bugs and issues identified and reported during the testing process, including detailed descriptions, reproduction steps, severity, and supporting evidence.
 
