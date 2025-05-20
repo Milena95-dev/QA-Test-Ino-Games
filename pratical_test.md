@@ -2,7 +2,6 @@
 📅 **Date of Test:** 20/05/2025  
 🎮 **Game Tested:** Nitropolis 5 - Elk Studios Games  
 🖥️ **Test Environment:** Demo Mode on our site  
-🌐 **Browser(s) and Device(s):** Mozilla Firefox Version 138.0.4 (64 bits)
 
 ---
 
