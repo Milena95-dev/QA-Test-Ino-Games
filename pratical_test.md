@@ -1,7 +1,8 @@
-# 🎮 QA Game Test Report – *Nitropolis 5* by Elk Studios
-
-**QA Analyst:** Milena Pereira Torres  
-**Date of Test:** 20/05/2025
+# QA Pratical Test and General Awnsers
+📅 **Date of Test:** 20/05/2025  
+🎮 **Game Tested:** Nitropolis 5 - Elk Studios Games  
+🖥️ **Test Environment:** Demo Mode on our site  
+🌐 **Browser(s) and Device(s):** Mozilla Firefox Version 138.0.4 (64 bits)
 
 ---
 
