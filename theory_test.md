@@ -1,4 +1,4 @@
-## 📖 QA Theoretical Answers (https://docs.google.com/document/d/1Yj5igAec5wcR2eiBdWvuDZnKPwZdzmwO/edit?usp=drive_link&ouid=114120568228143854602&rtpof=true&sd=true)
+## 📖 QA Theoretical Answers(https://docs.google.com/document/d/1Yj5igAec5wcR2eiBdWvuDZnKPwZdzmwO/edit?usp=drive_link&ouid=114120568228143854602&rtpof=true&sd=true)
 
 ---
 
