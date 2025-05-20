@@ -102,7 +102,7 @@ For a game with a rapid release cycle, I’d focus automation on:
   If it seems environment-related, I’d confirm the exact setup from my report (e.g., staging vs. production, specific build number) and ask them to retry under those conditions.
 
 - **Pair testing:**  
-  If issues persist, I’d suggest a quick pair-testing session—either in person or via screen share—where we follow my reproduction steps together. This usually uncovers any missing detail or external factor.
+  If issues persist, I’d suggest a quick pair-testing session either in person or via screen share where we follow my reproduction steps together. This usually uncovers any missing detail or external factor.
 
 - **Supervised reproduction:**  
   If we still can’t reproduce it, I’d run the steps again on my machine with the developer watching, so we can pinpoint the precise moment or condition that triggers the bug.
