@@ -1,6 +1,6 @@
-# InnoGames Test Project
+# Ino Games Test Project
 
-This repository contains the test cases, issues, and reports for the Slot Catalog Demo version developed by InnoGames. The focus is on functional, usability, performance, and visual testing across multiple browsers and devices.
+This repository contains the test cases, issues, and reports for the Slot Catalog Demo version developed by **Ino Games**. The focus is on functional, usability, performance, and visual testing across multiple browsers and devices.
 
 ---
 
@@ -60,7 +60,7 @@ For more details about my thought process, testing strategy, and answers to the 
 
 - 📘 **QA Questions & Answers Document**  
   [View on Google Docs](https://docs.google.com/document/d/1f4A_ya9BgutSi57xsW5gCZT2qddefS0dqGahxnVDCJE/edit?tab=t.0)  
-  This document contains my detailed answers to the QA-related questions proposed in the test, including methodology and rationale.
+  This document contains my detailed answers to the QA-related questions proposed in the test by **Ino Games**, including methodology and rationale.
 
 - 📁 **Test Evidence Repository**  
   [Access on Google Drive](https://drive.google.com/drive/folders/11buImJ1iyDa14PpM9o_cTcAxg2KcJVap?usp=drive_link)  
@@ -72,4 +72,4 @@ For more details about my thought process, testing strategy, and answers to the 
 
 ## ✅ Conclusion
 
-This QA effort helps ensure that the game provides a stable, visually consistent, and enjoyable experience across different platforms. It delivers actionable feedback for developers and highlights areas for improvement in both gameplay and interface quality.
+This QA effort ensures that games developed by **Ino Games** deliver a stable, visually consistent, and enjoyable experience across different platforms. It provides actionable feedback for developers and highlights areas for improvement in both gameplay and user interface quality.
