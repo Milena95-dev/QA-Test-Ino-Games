@@ -28,54 +28,90 @@ The main goal of Quality Assurance (QA) is to prevent errors, defects, and failu
 
 ---  
 
-**3\. What does the term 'regression testing' refer to?**
 
-Regression testing is a testing technique in which all parts of the product are tested, including every change, previous bug, and mapped test case, along with code inspections to validate possible system changes. This ensures complete product coverage before delivery to the customer or after changes that may impact parts of the system that were previously tested.
+### 3. What does the term 'regression testing' refer to?
 
-**4\. How would you create a template to describe bugs on a software that is being constantly released?**
+Regression testing is a testing technique in which all parts of the product are retested—including every change, previous bug fixes, and mapped test cases—along with code inspections to validate system updates. This ensures full product coverage before delivery or any time changes might impact areas that were already tested. Key aspects include:
 
-I would imagine a template that is intuitive, standardized, and concise:
+- **Complete retesting**: Re-executing all relevant test cases, especially those tied to past defects.  
+- **Change impact validation**: Confirming that new code or fixes haven’t broken existing functionality.  
+- **Code inspections**: Reviewing modified code sections to catch potential issues early.  
 
-* Include the bug ID (if used);  
-* Priority (considering a demand app, I would choose one from the label like (High, Medium, Low)  
-* I also usually use the device and browser used for the tests;  
-* Environment being tested and build version used for testing;  
-* A brief, intuitive, and easy-to-read description of the issue;  
-* Detailed steps to reproduce;  
-* Expected result (what the system should have done);  
-* Attachments at the end, including screenshots and videos with active audio;
+---
 
-**5\. What is the importance of test automation in QA? What would you explore in terms of automation for games being developed in a short period of time?**
 
-Test automation is crucial in QA as it significantly reduces the time required to perform repetitive tests and increases the reliability and efficiency of the validation process. It also enables asset quality evaluation and broader test coverage, ensuring system quality even under tight deadlines.
+### 4. How would you create a template to describe bugs on a software that is being constantly released?
 
-For games developed in a short time frame, I would explore:
+To keep reports intuitive, standardized and concise, I’d include:
 
-* Basic functionality tests, such as page loading, usability, and button functionality  
-* Validation of calculations and payouts, ensuring consistency in winnings and bets  
-* Performance and stress tests, simulating heavy loads to check stability  
-* Security tests to protect sensitive player information
+- **Bug ID** (if applicable)  
+- **Priority** (High, Medium, Low – based on labels in our demand-management tool)  
+- **Device & Browser** (e.g., Windows 10 / Chrome 114)  
+- **Environment & Build Version** (e.g., Dev, v2.3.1)  
+- **Description** (clear, to the point)  
+- **Steps to Reproduce**  
+  1. Step one  
+  2. Step two  
+- **Expected Result** (what the system should have done)  
+- **Actual Result** (what really happened)  
+- **Attachments** (screenshots, videos with audio, logs)  
 
-**6\. Describe the main stages of the Software Testing Life Cycle (STLC).**
+---  
 
-* **Requirements Analysis**: At this stage, the project needs are analyzed to identify functional and non-functional requirements. Tools to be used are planned, time estimations for testing are made, and the requirements that need to be met are evaluated.
 
-* **Test Planning**: Here, the test plan is created based on estimated time and desired coverage. Necessary resources like team, tools, and infrastructure are defined, and the test strategy is developed, prioritizing the main objectives.
+### 5. What is the importance of test automation in QA? What would you explore in terms of automation for games being developed in a short period of time?
 
-* **Test Case Design**: Test cases are created based on the defined requirements. This stage includes the creation of cases that cover the system's scope, ensuring that main functionalities and workflows are tested.
+Test automation is essential in QA because it **Speeds up repetitive testing**, **Improves accuracy**, and **Ensures consistent coverage** across releases—even under tight deadlines. It also allows for automated asset-quality checks and broader validation without manual overhead.
 
-* **Test Environment Setup**: In this phase, the test environment is set up to simulate real-world conditions. This includes installing, adjusting, and configuring tools, operating systems, browsers, and other necessary resources.
+For a game with a rapid release cycle, I’d focus automation on:
 
-* **Test Execution**: Test cases are executed, and any defects found are recorded in detail, including reproduction steps, severity, and priority. After fixes are made by the development team, a retest is conducted to ensure issues are resolved. This phase ends when critical and high-priority bugs are fixed.
+- **Core functionality**: Page/screen loading, menu navigation, button interactions  
+- **Calculation & payout accuracy**: Verifying bet/win logic remains consistent across builds  
+- **Performance & stress**: Simulating high user load or resource-intensive scenes to catch stability issues  
+- **Security checks**: Automated scans to protect player data and prevent common vulnerabilities  
 
-* **Closure**: After test execution, metrics and results are evaluated. Detailed reports listing defects found and suggested improvements are prepared. Additionally, lessons learned are documented, and future test cases that can optimize future processes are mapped.
+---
 
-**7\. How would you handle a situation where a bug you reported is marked as 'not reproducible' by the development team?**
 
-First, I would contact the developer or the team responsible for the attempt to reproduce to understand any difficulties faced, such as differences in the test environment or configurations used. If it’s determined that the issue is environment-related, I would suggest they try reproducing the bug in the correct environment specified in the report.
+### 6. Describe the main stages of the Software Testing Life Cycle (STLC)
 
-If this approach doesn’t resolve the issue, I would suggest conducting a pair testing session (in-person or virtual) with the team, reviewing the steps described in my report to identify any gaps or external factors that might affect reproducing the bug.
+- **Requirements Analysis**  
+  Analyze project needs to identify functional and non-functional requirements. Plan the tools to be used, estimate testing effort, and evaluate which requirements must be covered.
 
-If we manage to reproduce the bug during the session, I would leave the correction to the development team, offering support if they need more information or suggestions. However, if the issue persists, I would try reproducing the bug again on my machine under their supervision, to explore the exact conditions in which the error occurs.
+- **Test Planning**  
+  Develop the test plan based on time estimates and desired coverage. Define resources (team, tools, infrastructure) and outline the test strategy, prioritizing key objectives.
 
-Regardless of the outcome, I would review my report to identify possible improvements in the bug description, ensuring it is as intuitive, detailed, and complete as possible to avoid future confusion.
+- **Test Case Design**  
+  Create test cases from the defined requirements, ensuring coverage of main functionalities and workflows within the system’s scope.
+
+- **Test Environment Setup**  
+  Configure the environment to mirror real-world conditions: install and adjust tools, operating systems, browsers, and any other necessary resources.
+
+- **Test Execution**  
+  Run test cases and log any defects with detailed reproduction steps, severity, and priority. After developers fix issues, perform retests to confirm resolution. This phase concludes once critical and high-priority bugs are addressed.
+
+- **Closure**  
+  Evaluate metrics and results, prepare a detailed report of defects and recommendations, document lessons learned, and map out improvements for future testing cycles.
+
+---  
+
+
+### 7. How would you handle a situation where a bug you reported is marked as ‘not reproducible’ by the development team?
+
+1. **Clarify the context**  
+   I’d reach out to the developer or team to understand what environment and configuration they used. Often, differences in OS, browser version or build can prevent reproduction.
+
+2. **Verify the environment**  
+   If it seems environment-related, I’d confirm the exact setup from my report (e.g., staging vs. production, specific build number) and ask them to retry under those conditions.
+
+3. **Pair testing**  
+   If issues persist, I’d suggest a quick pair-testing session—either in person or via screen share—where we follow my reproduction steps together. This usually uncovers any missing detail or external factor.
+
+4. **Supervised reproduction**  
+   If we still can’t reproduce it, I’d run the steps again on my machine with the developer watching, so we can pinpoint the precise moment or condition that triggers the bug.
+
+5. **Improve the report**  
+   Regardless of the outcome, I’d review my bug write-up, adding any extra logs, screenshots, or clarifications needed to make it as clear and complete as possible for future reference.
+
+---  
+
