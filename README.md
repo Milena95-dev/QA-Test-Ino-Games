@@ -60,7 +60,7 @@ For more details about my thought process, testing strategy, and answers to the 
 
 - 📘 **QA Theorical Document**  
 📄 [View on GitHub](theory_test.md)  
-🔗 [View on Google Drive]( https://docs.google.com/document/d/1Yj5igAec5wcR2eiBdWvuDZnKPwZdzmwO/edit?usp=drive_link&ouid=114120568228143854602&rtpof=true&sd=true)
+🔗 [View on Google Drive]( https://docs.google.com/document/d/1Yj5igAec5wcR2eiBdWvuDZnKPwZdzmwO/edit?usp=drive_link&ouid=114120568228143854602&rtpof=true&sd=true)  
   This document contains my detailed answers to the QA-related questions proposed in the test by **Ino Games**, including methodology and rationale.
   
 - 📘 **QA Pratical Document**  
