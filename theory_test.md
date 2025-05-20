@@ -1,4 +1,4 @@
-## 📖 Theoretical QA Questions & Answers
+## 📖 QA Theoretical Answers
 
 ---
 
