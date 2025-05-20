@@ -1,4 +1,4 @@
-# QA Theory Test 
+# QA Theoretical Answers 
 📅 **Date of Test:** 20/05/2025  
 🎮 **Game Tested:** Nitropolis 5 - Elk Studios Games  
 🖥️ **Test Environment:** Demo Mode on our site  
