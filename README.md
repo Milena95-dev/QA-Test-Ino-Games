@@ -59,7 +59,7 @@ This repository contains the test cases, issues, and reports for the Slot Catalo
 For more details about my thought process, testing strategy, and answers to the QA questions, please refer to the following resources:
 
 - 📘 **QA Theorical Document**  
-  [View on Google Docs]()  
+  [View on my repository or Drive]()  
   This document contains my detailed answers to the QA-related questions proposed in the test by **Ino Games**, including methodology and rationale.
   
 - 📘 **QA Pratical Document**  
